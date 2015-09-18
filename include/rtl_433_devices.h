@@ -33,7 +33,9 @@
 		DECL(ec3k) \
 		DECL(valeo) \
 		DECL(chuango) \
-		DECL(generic_remote) 
+		DECL(generic_remote) \
+		DECL(tfa_twin_plus_303049) \
+		DECL(digitech_ws)
 
 
 typedef struct {
